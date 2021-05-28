@@ -1,0 +1,19 @@
+h1{
+	background: #B3B3B3;
+	text-align: center;
+	margin:20px;
+}
+section{
+
+	width: 30%;
+	display:table-cell;
+	background: #00B57A;
+	margin-right: 2%;
+	float: left;
+}
+img{
+	display: none;
+}
+header{
+	padding: 5px;
+}
